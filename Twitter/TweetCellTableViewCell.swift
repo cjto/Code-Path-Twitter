@@ -1,10 +1,3 @@
-//
-//  TweetCellTableViewCell.swift
-//  Twitter
-//
-//  Created by Cyre Jorin To on 2/7/20.
-//  Copyright © 2020 Dan. All rights reserved.
-//
 
 import UIKit
 
