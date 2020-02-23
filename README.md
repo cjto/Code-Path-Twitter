@@ -1,4 +1,4 @@
-# Twitter - Part II
+# GhettoTwitter - Part II
 
 This is a basic twitter app to view, compose, favorite, and retweet tweets.
 
@@ -24,7 +24,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/E7CwNb8oZy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-# Project 3 - *Chirp*
+# Project 3 - *GhettoTwitter*
 
 **Chirp** is a basic twitter app to read your tweets.
 
